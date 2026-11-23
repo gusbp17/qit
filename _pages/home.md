@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/full.webp" style="width: 100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/group_pic_nov_2026.webp" style="width: 100%">
 
 We're a research group at [ICFO](https://www.icfo.eu/), Barcelona, led by Prof. Antonio Acín.
 
