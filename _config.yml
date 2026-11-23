@@ -7,10 +7,10 @@
 
 # Site settings
 title: QIT @ ICFO
-email: lbmortimer1998@gmail.com
+email: gustavobalvedi@gmail.com
 description: Website of the QIT group at ICFO
-baseurl: /
-url: https://lumorti.github.io/
+baseurl: /qit
+url: https://gusbp17.github.io
 
 include:
   - .htaccess
