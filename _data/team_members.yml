@@ -550,7 +550,7 @@
 #     - TODO
 
 - name: Caterina Cretier
-  position: Student
+  position: Master and Bachelor Student
   photo: caterina.png
   info: Student since October 2026
   email: caterina.cretier@icfo.eu
@@ -558,7 +558,7 @@
     - TODO
 
 - name: Riccardo Cugliari
-  position: Student
+  position: Master and Bachelor Student
   photo: riccardo.png
   info: Student since October 2026
   email: riccardo.cugliari@icfo.eu
@@ -566,7 +566,7 @@
     - TODO
 
 - name: Arnau Vila
-  position: Student
+  position: Master and Bachelor Student
   photo: arnau.png
   info: Student since November 2026
   email: arnau.vila@icfo.eu
